@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FP7jIdt1ZB92ZJ3vEi4xSCSVqxYCBcrssA8uLCXJ7p625f7RCLmFOaKKISREjvrl2YAgRpkQVmAhbExeWSeY6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rebis\\Videos\\DesafioFundamentos\\DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rebis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rebis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rebis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rebis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
